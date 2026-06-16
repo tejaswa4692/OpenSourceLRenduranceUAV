@@ -8,11 +8,11 @@ The project focuses on creating a low-cost, energy-efficient and open source air
 
 ### Airframe Concept
 
-![Screenshot 1](./assets/Screenshot1.png)
+![Screenshot 1](./assets/Screenshot2.png)
 
 ### CFD simulations at 50kmph
 
-![Screenshot 2](./assets/Screenshot2.png)
+![Screenshot 2](./assets/Screenshot1.png)
 
 ## Key Features
 
