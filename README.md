@@ -45,6 +45,8 @@ The project focuses on creating a low-cost, energy-efficient and open source air
 
 Currently the deisgn is being worked upon by me, the build process for it will be out soon aswell along with the respective 3d printable templates, im also testing different airfoils by cutting them out of thermocol and looking at their characterstics at different speeds while sitting in a car and them out the window.
 
+Ive made the BOM for this which is linked in the repo, the total budget just comes under $180 which was my initial goal and im quiet happy by what im gonna be able to do with this money, on the day i made the BOM price of 1 dollar was 94.49 rupees.
+ 
 Future updates will include:
 
 * Airframe construction
