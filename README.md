@@ -102,3 +102,6 @@ A video explaining the build process will also be coming soon
 # Autopilot
 Coming soon......
 
+
+Files can also be found on printables here
+https://www.printables.com/model/1756593-long-range-endurance-uav
