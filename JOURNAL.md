@@ -9,6 +9,8 @@
 * Calculated wing loading and estimated flight performance for the flying wing.
 Time: 3 hours
 
+![Screenshot 1](./assets/Screenshot10.png)
+
 ## June 16, 2026
 
 * Changed the whole design into a 2m wingspan large UAV aircraft to maximise stablity
@@ -23,6 +25,8 @@ Time: 3 hours
 
 Time: 5 hours
 
+![Screenshot 1](./assets/Screenshot1.png)
+
 ## June 17, 2026
 
 * Made some more tiny changes in the BOM trying to get even more underbudget
@@ -35,6 +39,8 @@ Time: 5 hours
 * Made the JOURNAL.md file
 
 Time: 5 hours
+
+![Screenshot 1](./assets/image.jpeg)
 
 ## Total Time
 
