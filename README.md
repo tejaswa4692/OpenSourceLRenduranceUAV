@@ -43,7 +43,7 @@ The project focuses on creating a low-cost, energy-efficient and open source air
 
 ## Status
 
-Currently the deisgn is being worked upon by me, the build process for it will be out soon aswell along with the respective 3d printable templates, im also testing different airfoils by cutting them out of thermocol and looking at their characterstics at different speeds while sitting in a car and them out the window.
+The designing part is done, now i just have to wait if i qualify for the fund so that i can finally learn Pixhawk boards, then i can deliver the autopilot build process aswell
 
 Ive made the BOM for this which is linked in the repo, the total budget just comes under $180 with some wiggle room which was my initial goal and im quiet happy by what im gonna be able to do with this money, on the day i made the BOM price of 1 dollar was 94.49 rupees.
 
@@ -69,6 +69,36 @@ Ive made the BOM for this which is linked in the repo, the total budget just com
 18. put the pushrod wire through the assembly
 19. cut a slit for the wire out and bring both wires to the middle (use jumper wires to extend the length of servo wires)
 20. Put transpaarent packaging tape over your entire wing to smooth it out to reduce friction drag (optional)
+21. Cut out motor mounts out of depron and 3d print the motormount plate aswell
+22. attach them under the wing and route the wires to middle of the wing
 
 Your wing is done it should look something like this 
 ![Screenshot 3](./assets/image.jpeg)
+
+
+#Fuselage build process
+1. print out the fuselage templates
+2. Use Depron sheets to cut out the fuselage templates (remember to cut out circles on top of it that fit the size of your wingspar
+3. make a 60cm tube around the templates
+4. make a simple nose ends for the tube that you just made for aerodynamics, you can experiment here by adding a canopy for fpv, your mind is the bottleneck here
+5. Make a payload box out of depron as shwon in the image of the cad file, cut out the depron tube to fit that box rougly under the place of CG
+6. before attaching, attach 2 servos inside the bay to open and close the door, wire these 2 servos together and leave it for now.
+7. cut out a hatch from the top of the nose to acess the electronics inside later
+8. Slide in the carbon spar from behind and hotglue it in place, make sure to leavev an inch free inside the fuselage
+9. Put skewers through side of the fuselage to attach the wing
+
+# Battery
+Make the battery out of Li ion cells in a 4s4p configuration using spot welding, also solder the BMS to it for charging, and make sure to solder 2 XT 60 connectors to the ends of the battery (NOT THROUGH THE BMS!!!), use long zipties to attach the battery to the tailboom carbon rod
+
+# elevons and rudder
+1. cut out the smaller symmetric airfoil profile provided out of cardboard
+2. follow the same procedure as you did to make the wings just make these 25cm long each
+3. glue them in conventional tail configuration along the carbon spar and route the servo wires through the carbon spar to the fuselage
+
+Your aircraft frame is ready to fly, go out and test it out before adding autopilot to it
+
+A video explaining the build process will also be coming soon 
+
+# Autopilot
+Coming soon......
+
