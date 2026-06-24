@@ -24,6 +24,12 @@ The project focuses on creating a low-cost, energy-efficient and open source air
 * Payload delivery mechanism
 * Modular and repairable design
 
+## 3D prints
+* Print out 1x rib template
+* Print 1 AirfoilTemplates (not the one that has servo horns in it)
+* Print out 1 Better_Servo_link.3mf file (it contains 8 control horns, way more than what we might need)
+* Print 2 Motor mount plate
+
 ## Hardware
 
 ### Flight Control
@@ -65,7 +71,7 @@ Ive made the BOM for this which is linked in the repo, the total budget just com
 14. cut out alerons from both sides and make them 60 x 5 cm from both sides, dont cut the alerons completely, leave some paper at top part where it can flex
 15. cut a 50 degree chunk out of the aleron so it can go up and down
 16. cut out a slot for your servo and place it in with hotglue(remember to center it beforehand)
-17. twist the stainless steel wire to create a pushrod and attach the 3d printed control horn on the aleron
+17. twist the stainless steel wire to create a pushrod and attach the 3d printed better control horn on the aleron
 18. put the pushrod wire through the assembly
 19. cut a slit for the wire out and bring both wires to the middle (use jumper wires to extend the length of servo wires)
 20. Put transpaarent packaging tape over your entire wing to smooth it out to reduce friction drag (optional)
