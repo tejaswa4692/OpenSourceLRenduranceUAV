@@ -4,8 +4,6 @@ This is a long-endurance autonomous fixed-wing UAV designed for lightweight pack
 
 The project focuses on creating a low-cost, energy-efficient and open source aircraft capable of autonomous waypoint navigation, payload deployment, and extended flight durations using commercially available components and a custom-built airframe.
 
-[![Open in Onshape](https://cad.onshape.com/documents/42a580285568c5636a846df6/w/e6f58cce48c5c68a8170088e/e/f5cc87cc617ab33121b16586?renderMode=0&uiState=6a5344ba50663a60c22eea7b)
-
 ## Design Preview
 
 ### Airframe Concept
@@ -40,6 +38,10 @@ The project focuses on creating a low-cost, energy-efficient and open source air
 
 > [!NOTE]
 > Location of GPS and Grabber servo will be added later take account of real life variables and strength of the motor.
+
+## CAD Model
+
+The complete CAD model is available on **[Onshape](https://cad.onshape.com/documents/42a580285568c5636a846df6/w/e6f58cce48c5c68a8170088e/e/f5cc87cc617ab33121b16586?renderMode=0&uiState=6a5344ba50663a60c22eea7b)**.
 
 ## Key Features
 
