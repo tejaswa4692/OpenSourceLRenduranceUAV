@@ -14,6 +14,31 @@ The project focuses on creating a low-cost, energy-efficient and open source air
 
 ![Screenshot 2](./assets/Screenshot1.png)
 
+### Wiring diagram
+
+![Screenshot 2](./assets/Group13(2).png)
+
+
+### CG location and mounting position for the electronics
+
+![Screenshot 2](./assets/Screenshot_20260712_120101.png)
+
+### Pixhawk, Motor, Li Ion battery mounting for best structural integrity 
+
+<table>
+<tr>
+<td>
+<img src="assets/Screenshot_20260712_124701.png" width="500">
+</td>
+<td>
+<img src="assets/Screenshot_20260712_125155.png" width="500">
+</td>
+</tr>
+</table>
+
+> [!NOTE]
+> Location of GPS and Grabber servo will be added later take account of real life variables and strength of the motor.
+
 ## Key Features
 
 * Autonomous flight using ArduPilot
