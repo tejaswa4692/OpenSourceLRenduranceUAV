@@ -42,6 +42,17 @@ Time: 5 hours
 
 ![Screenshot 1](./assets/image.jpeg)
 
+## July 12, 2026
+
+* Made the wiring diagram in figma and added it to the readme as the outpost submission required it
+* Added images for locations for mounting the electronics
+
+
+![Screenshot 2](./assets/Group13(2).png)
+![Screenshot 2](./assets/Screenshot_20260712_120101.png)
+
+Time: 1 Hour
+
 ## Total Time
 
-13 hours
+14 hours
