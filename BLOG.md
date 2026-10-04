@@ -29,3 +29,22 @@ It has seemed to serve me well as i did test this one with a spare motor i repur
 Heres the link to the youtube video (its a lil embarrassing dont judge) 
 
 https://youtu.be/xHYlskcMfM4
+
+# What precautions i took
+
+This time i had like 3 zipties holding down the 3 phase wires of motor like SUPER tightly to the tube so IF the motor comes off the worst that can happen is that the motor just comes off the mount and keeps dangling on the tube
+
+https://stardance.hackclub.com/projects/12767/devlogs/63215
+
+This is the link of the devlog from when i flew with those precautions 
+
+# What needs replacing
+
+Due to me being a shit pilot and crashing a lot, i have started making frames and wings that are SUPER crash resistant (like literally it fell from 100m and not even a scratch on it) 
+
+https://robu.in/product/a2212-10t-13t-1000kv-brushless-motor-with-soldered-connector/
+This is the motor id need (the exact same kind) it costs 464 (including shipping) which is 5 dollars at the time im writing this 
+
+https://stardance.hackclub.com/projects/12767/devlogs/63148
+
+This is link to the devlog when the motor came off, for some reason the video quality on stardance is much better than that of youtube
