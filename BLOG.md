@@ -20,7 +20,7 @@ Hence, it came loose and fell in the field below
 
 For starters i made the mount MUCH thicker and used 100% infill this time
 
-![Screenshot 1](./assets/fixed.jpeg)
+![Screenshot 1](./assets/fixed.png)
 
 And instead of coutnersink screws i used my own M3x6 hex screws (that have a flat base) with washers to dissipate more heat while flying
 
