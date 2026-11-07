@@ -17,7 +17,7 @@ The project focuses on creating a low-cost, energy-efficient and open-source air
 
 ### Wiring Diagram
 
-![Screenshot 2](./assets/Group13(2).png)
+![Screenshot 2](./assets/WriringDiagram.png)
 
 ### CG Location and Mounting Position for the Electronics
 
@@ -93,7 +93,7 @@ The design build and testing has all been done and aircraft has been optimized f
 17. Twist the stainless steel wire to create a pushrod and attach the 3d printed better control horn on the aleron.
 18. Put the pushrod wire through the assembly.
 19. Cut a slit for the wire out and bring both wires to the middle (use jumper wires to extend the length of servo wires).
-20. Put transpaarent packaging tape over your entire wing to smooth it out to reduce friction drag (optional).
+20. Put transpaarent packaging tape over your entire wing to smooth it out to reduce friction drag (optional but this brought my cruise amps from 4.0 to 3.5).
 21. Cut out motor mounts out of depron and 3d print the motormount plate aswell.
 22. Attach them under the wing and route the wires to middle of the wing.
 
@@ -105,15 +105,9 @@ Your wing is done it should look something like this:
 
 ## Fuselage Build Process
 
-1. Print out the fuselage templates.
-2. Use Depron sheets to cut out the fuselage templates (remember to cut out circles on top of it that fit the size of your wingspar).
-3. Make a 60cm tube around the templates.
-4. Make a simple nose ends for the tube that you just made for aerodynamics, you can experiment here by adding a canopy for fpv, your mind is the bottleneck here.
-5. Make a payload box out of depron as shwon in the image of the cad file, cut out the depron tube to fit that box rougly under the place of CG.
-6. Before attaching, attach 2 servos inside the bay to open and close the door, wire these 2 servos together and leave it for now.
-7. Cut out a hatch from the top of the nose to acess the electronics inside later.
-8. Slide in the carbon spar from behind and hotglue it in place, make sure to leavev an inch free inside the fuselage.
-9. Put skewers through side of the fuselage to attach the wing.
+1. Print out the pixhawk and battery holdeer
+2. slide it on the carbon tube and secure them with zipties
+3. wire your pixhawk to the servos and youre done
 
 ---
 
