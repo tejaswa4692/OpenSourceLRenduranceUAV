@@ -6,6 +6,10 @@ The project focuses on creating a low-cost, energy-efficient and open source air
 
 ## Design Preview
 
+## Flight video
+
+https://youtu.be/uD8uRdXo4Jk
+
 ### Airframe Concept
 
 ![Screenshot 1](./assets/Screenshot2.png)
